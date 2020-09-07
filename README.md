@@ -35,6 +35,6 @@ If we try to move disactive turtle there shall appear an error.
 
 During moving animals we shall receive communication from which position to which position we moved.
 
-After exiting of program, all data shall be saved in files: animals.txt and users.txt - NOT DONE.
+After exiting of program, all data shall be saved in files: animals.txt and users.txt.
 
 After running program again, all data shall be loaded from above files. - NOT DONE.
